@@ -1,0 +1,6 @@
+fungsi 
+Git pull = mengambil file dari repository
+Git push = mengupload/memasukkan file ke repository
+Git commit = merekam perubahan pada file ke dalam repository
+Git add = menambah file ke dalam repository
+Git clone = menduplikasi file yang ada di repository
